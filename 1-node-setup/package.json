@@ -1,0 +1,23 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "description": "This will be a free-code-camp backend node repo",
+  "version":"0.1.0",
+  "keywords": [
+    "freecodecamp",
+    "Backend",
+    "Tutorial"
+  ],
+  "author": "Uddhav Jadhav",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "license": "MIT"
+}
